@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: rag-demo-enablement1-app-teon
-        image: chanran33/rag-demo:0.0.2
+        image: chanran33/rag-demo:0.0.3
         imagePullPolicy: Always
         resources:
           limits:
@@ -53,7 +53,7 @@ metadata:
   namespace: demo-cesco01
 spec:
   gateway: kyma-gateway.kyma-system.svc.cluster.local
-  host: rag-demo-enablement1-api-rule.c-5d3089e.kyma.ondemand.com
+  host: rag-demo-enablement1-api-rule.api.efeaa16.kyma.ondemand.com
   service:
     name: rag-demo-enablement1-service-teon
     port: 7860
