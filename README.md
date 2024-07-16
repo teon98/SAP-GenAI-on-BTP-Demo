@@ -15,4 +15,5 @@ Blocked Stock을 해결하기 위한 추천 솔루션
 
 ### 결과
 https://rag-demo-enablement1-api-rule.api.efeaa16.kyma.ondemand.com/
-(7월 25일에 SAP trial 계정 만료)
+<br/>
+(※ 7월 25일에 SAP trial 계정 만료)
