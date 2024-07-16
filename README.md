@@ -12,3 +12,7 @@ Blocked Stock을 해결하기 위한 추천 솔루션
 - STEP1 - Connect HANA Cloud & HANA Vector Embedding
 - STEP2 - LLM + RAG - HANA to improve LLM response
 - STEP3 - Build Docker & Deploy BTP Kyma
+
+### 결과
+https://rag-demo-enablement1-api-rule.api.efeaa16.kyma.ondemand.com/
+(7월 25일에 SAP trial 계정 만료)
